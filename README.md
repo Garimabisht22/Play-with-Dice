@@ -1,6 +1,13 @@
 # play_dice
 
-PLAY WITH YOUR DICE
+PLAY WITH YOUR DICE.
+This app is one of the beginners project using flutter. A super cool dice rolling game with nice app icon, made with flutter in a very short code.
+Interactive and functional.
+
+https://user-images.githubusercontent.com/51168410/118273585-bad38e00-b4e1-11eb-9a02-c46b3fe7bc12.mp4
+
+
+
 
 ## Getting Started
 
